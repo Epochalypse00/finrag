@@ -1,0 +1,270 @@
+{
+  "summary": {
+    "num_cases": 6,
+    "k": 6,
+    "hit_rate@k": 0.3333333333333333,
+    "mrr": 0.06944444444444443,
+    "answers_with_citations": 0.8333333333333334,
+    "citations_match_retrieved": 0.6666666666666666
+  },
+  "cases": [
+    {
+      "q": "From Apple Item 1A, list the top risk factors.",
+      "hit@k": false,
+      "mrr": 0.0,
+      "citations_present": true,
+      "citations_match_retrieved": true,
+      "expected": [
+        "aapl-20230930.htm::Item 1A"
+      ],
+      "retrieved_top": [
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        }
+      ],
+      "answer": "The top risk factors for Apple Inc. as described in Item 1A include:\n\n1. Risk of write-downs on inventory and other assets, along with purchase commitment cancellation risk [aapl-20230930.htm, p. 8].\n2. Exposure to credit risk on trade accounts receivable and vendor non-trade receivables, heightened during economic downturns [aapl-20230930.htm, p. 15].\n3. Insufficient insurance coverage for data security risks [aapl-20230930.htm, p. 11].\n4. Disruption from political events, trade disputes, war, terrorism, natural disasters, and public health issues [aapl-20230930.htm, p. 5].\n5. Reliance on single-source outsourcing partners for components and final assembly, with risks from potential failures or disruptions [aapl-20230930.htm, p. 7]."
+    },
+    {
+      "q": "What does Apple say about supply chain dependence risks? Provide citations.",
+      "hit@k": false,
+      "mrr": 0.0,
+      "citations_present": true,
+      "citations_match_retrieved": true,
+      "expected": [
+        "aapl-20230930.htm::Item 1A"
+      ],
+      "retrieved_top": [
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        }
+      ],
+      "answer": "Apple highlights several risks related to supply chain dependence:\n\n1. The company relies on single-source outsourcing partners for many components and final assembly, primarily located in Asia. Any failure of these partners can negatively impact costs or supply of components and finished goods [aapl-20230930.htm, Item 1A - Risk Factors, p. 7].\n\n2. Manufacturing or logistics can be disrupted due to various reasons, including natural disasters, political issues, and international trade disputes, which can adversely affect the company and its partners [aapl-20230930.htm, Item 1A - Risk Factors, p. 5].\n\n3. The company is also exposed to significant risks of supply shortages and price increases due to adverse economic conditions, which can materially affect its business and financial condition [aapl-20230930.htm, Item 1A - Risk Factors, p. 10]."
+    },
+    {
+      "q": "Summarize Apple market and competition risks from Item 1A.",
+      "hit@k": false,
+      "mrr": 0.0,
+      "citations_present": true,
+      "citations_match_retrieved": false,
+      "expected": [
+        "aapl-20230930.htm::Item 1A"
+      ],
+      "retrieved_top": [
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1 - Business",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1 - Business",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        },
+        {
+          "file_name": "aapl-20230930.htm",
+          "section": "Item 1A - Risk Factors",
+          "page": 1
+        }
+      ],
+      "answer": "Apple's market and competition risks include:\n\n1. **Highly Competitive Market**: The market for Apple's products and services is characterized by aggressive price competition, downward pressure on gross margins, and frequent new product introductions, leading to short product life cycles and evolving industry standards [source 1, p.2].\n\n2. **Intellectual Property Risks**: Competitors often imitate Apple's products and infringe on its intellectual property. Effective protection of intellectual property is not guaranteed in all countries, which could adversely affect Apple's competitive advantage [source 4, p.6].\n\n3. **Innovation Dependency**: Apple's success relies on the timely introduction of innovative products and services. Significant investments in R&D are necessary, and there is no assurance that these investments will yield expected returns [source 6, p.6].\n\n4. **Inventory and Asset Risks**: The company faces risks related to write-downs on inventory and other assets, as well as purchase commitment cancellation risks [source 3, p.8].\n\n5. **Data Security Insurance Limitations**: While Apple maintains insurance for data security risks, this coverage may not be sufficient to cover all potential losses or claims [source 5, p.11]."
+    },
+    {
+      "q": "According to NVIDIA, what are key competition risks? Provide citations.",
+      "hit@k": false,
+      "mrr": 0.0,
+      "citations_present": true,
+      "citations_match_retrieved": true,
+      "expected": [
+        "NVIDIA-2025-Annual-Report.pdf::p106"
+      ],
+      "retrieved_top": [
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 107
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 14
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 103
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 101
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 150
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 101
+        }
+      ],
+      "answer": "Key competition risks for NVIDIA include:\n\n1. **Intensifying Competition**: The target markets remain competitive, and competition may intensify due to expanding product offerings, industry standards, and new entrants, which could adversely impact market share and financial results [NVIDIA-2025-Annual-Report.pdf, p.107].\n\n2. **Greater Resources of Competitors**: Some competitors may have greater marketing, financial, distribution, and manufacturing resources, making them more adaptable to customer or technological changes [NVIDIA-2025-Annual-Report.pdf, p.101].\n\n3. **Product Performance and Pricing**: Competitors may offer products that are cheaper or provide better functionality, which could lead to lower-than-expected revenue for NVIDIA [NVIDIA-2025-Annual-Report.pdf, p.107; p.101].\n\n4. **Emergence of New Competitors**: New competitors or alliances among existing competitors could emerge, potentially acquiring significant market share [NVIDIA-2025-Annual-Report.pdf, p.101].\n\n5. **Technological Development Impact**: The impact of technological development and competition, along with market acceptance of products, can affect NVIDIA's competitive position [NVIDIA-2025-Annual-Report.pdf, p.14]."
+    },
+    {
+      "q": "According to NVIDIA, what supply/manufacturing risks are mentioned? Provide citations.",
+      "hit@k": true,
+      "mrr": 0.25,
+      "citations_present": true,
+      "citations_match_retrieved": true,
+      "expected": [
+        "NVIDIA-2025-Annual-Report.pdf::p106"
+      ],
+      "retrieved_top": [
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 14
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 103
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": "Item 1A - Risk Factors",
+          "page": 105
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 106
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 114
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 110
+        }
+      ],
+      "answer": "NVIDIA mentions several supply and manufacturing risks, including:\n\n1. Long manufacturing lead times and uncertain supply and component availability, which can lead to mismatches between supply and demand [NVIDIA-2025-Annual-Report.pdf, p.106].\n2. Dependency on third-party suppliers and their technology for manufacturing, assembling, testing, or packaging products, which reduces control over product quantity, quality, manufacturing yields, and delivery schedules [NVIDIA-2025-Annual-Report.pdf, p.106].\n3. Supply chain delays arising from climate change-related disruptions, which could result in increased litigation and costs [NVIDIA-2025-Annual-Report.pdf, p.114]."
+    },
+    {
+      "q": "According to NVIDIA, what interest rate risks are mentioned? Provide citations.",
+      "hit@k": true,
+      "mrr": 0.16666666666666666,
+      "citations_present": false,
+      "citations_match_retrieved": false,
+      "expected": [
+        "NVIDIA-2025-Annual-Report.pdf::p95"
+      ],
+      "retrieved_top": [
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 160
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": "Item 1A - Risk Factors",
+          "page": 105
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": "Item 16",
+          "page": 94
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 103
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 167
+        },
+        {
+          "file_name": "NVIDIA-2025-Annual-Report.pdf",
+          "section": null,
+          "page": 95
+        }
+      ],
+      "answer": "Not found in provided documents."
+    }
+  ]
+}

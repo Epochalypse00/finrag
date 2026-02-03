@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+build/
+dist/
+
+# Virtual env
+.venv/
+
+# Local secrets
+.env
+
+# Data + indices (don’t commit filings or embeddings)
+data/raw/
+indices/
+models/
+
+# OS/IDE
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+paths:
+  index_dir: indices/faiss
+openai:
+  chat_model: gpt-4o-mini
+retrieval:
+  k: 6

@@ -1,0 +1,15 @@
+paths:
+  raw_dir: data/raw
+  index_dir: indices/faiss
+  manifest_path: indices/faiss/manifest.json
+
+ingestion:
+  chunk_size: 900
+  chunk_overlap: 150
+
+openai:
+  embedding_model: text-embedding-3-small
+  chat_model: gpt-4o-mini
+
+retrieval:
+  k: 6

@@ -1,0 +1,6 @@
+{"q":"From Apple Item 1A, list top risk factors.","expected":[{"file_name":"aapl-20230930.htm","section":"Item 1A"}]}
+{"q":"What does Apple say about supply chain dependence risks? Provide citations.","expected":[{"file_name":"aapl-20230930.htm","section":"Item 1A"}]}
+{"q":"Summarize Apple market and competition risks from Item 1A.","expected":[{"file_name":"aapl-20230930.htm","section":"Item 1A"}]}
+{"q":"According to NVIDIA, what are key competition risks? Provide citations.","expected":[{"file_name":"NVIDIA-2025-Annual-Report.pdf","page":106}]}
+{"q":"According to NVIDIA, what supply/manufacturing risks are mentioned? Provide citations.","expected":[{"file_name":"NVIDIA-2025-Annual-Report.pdf","page":106}]}
+{"q":"According to NVIDIA, what interest rate risks are mentioned? Provide citations.","expected":[{"file_name":"NVIDIA-2025-Annual-Report.pdf","page":95}]}
